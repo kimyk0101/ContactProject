@@ -48,6 +48,8 @@
 
 ## 폴더 구조
 
+
+```txt
 ContactProject/
 ├── libs/
 │   └── mysql-connector-j-9.1.0.jar
@@ -70,7 +72,6 @@ ContactProject/
 ├── .classpath
 ├── .gitignore
 └── .project
-
 ---
 
 ## 느낀 점
