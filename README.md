@@ -50,23 +50,26 @@
 
 ContactProject/
 ├── libs/
-│ └── mysql-connector-j-9.1.0.jar
+│   └── mysql-connector-j-9.1.0.jar
 ├── src/com/java/
-│ ├── app/
-│ │ └── ContactApp.java
-│ ├── dao/
-│ │ └── impl/
-│ │ ├── CallRecordDao.java
-│ │ ├── EmploymentDao.java
-│ │ └── MessageRecordDao.java
-│ ├── vo/
-│ ├── CallRecordVo.java
-│ ├── DepartmentListVo.java
-│ ├── EmploymentVo.java
-│ ├── MessageRecordVo.java
-│ ├── RankVo.java
-│ └── RegionsVo.java
-└── 프로젝트_연관문서/
+│   ├── app/
+│   │   └── ContactApp.java
+│   ├── dao/
+│   │   └── impl/
+│   │       ├── CallRecordDao.java
+│   │       ├── EmploymentDao.java
+│   │       └── MessageRecordDao.java
+│   └── vo/
+│       ├── CallRecordVo.java
+│       ├── DepartmentListVo.java
+│       ├── EmploymentVo.java
+│       ├── MessageRecordVo.java
+│       ├── RankVo.java
+│       └── RegionsVo.java
+├── 프로젝트_연관문서/
+├── .classpath
+├── .gitignore
+└── .project
 
 ---
 
